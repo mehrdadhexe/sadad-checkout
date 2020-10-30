@@ -1,0 +1,26 @@
+{
+  "name": "sadad-pay",
+  "version": "1.0.1",
+  "description": "Sadad API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "sadad",
+    "nodejs",
+    "checkout"
+  ],
+  "author": "Hajebi.dev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehrdadhexe/sadad-checkout.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "sadad-checkout": "^1.0.1"
+  },
+  "homepage": "https://mehrsateam.ir"
+}
